@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Map Viewer", "Map Viewer\Map Viewer.csproj", "{B75C45B3-40E3-49D9-8B10-4FBDEFF6DD0E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Image Processing", "Image Processing\Image Processing.csproj", "{2195305C-F31A-4AB7-8B14-248FA87169D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Map Editor", "Map Editor\Map Editor.csproj", "{21609808-CA29-4848-905D-513055BF7F4E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MapDisplayLib", "MapDisplayLib\MapDisplayLib.csproj", "{55DA3786-8396-49DA-99F4-437711DB08CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B75C45B3-40E3-49D9-8B10-4FBDEFF6DD0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B75C45B3-40E3-49D9-8B10-4FBDEFF6DD0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B75C45B3-40E3-49D9-8B10-4FBDEFF6DD0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B75C45B3-40E3-49D9-8B10-4FBDEFF6DD0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2195305C-F31A-4AB7-8B14-248FA87169D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2195305C-F31A-4AB7-8B14-248FA87169D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2195305C-F31A-4AB7-8B14-248FA87169D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2195305C-F31A-4AB7-8B14-248FA87169D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21609808-CA29-4848-905D-513055BF7F4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21609808-CA29-4848-905D-513055BF7F4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21609808-CA29-4848-905D-513055BF7F4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21609808-CA29-4848-905D-513055BF7F4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55DA3786-8396-49DA-99F4-437711DB08CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55DA3786-8396-49DA-99F4-437711DB08CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55DA3786-8396-49DA-99F4-437711DB08CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55DA3786-8396-49DA-99F4-437711DB08CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

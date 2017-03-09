@@ -1,0 +1,32 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:telerik="http://schemas.telerik.com/2008/xaml/presentation" x:Class="MapEditor.MainWindow"
+		xmlns:lib="clr-namespace:MapDisplayLib;assembly=MapDisplayLib"
+        Title="Map Editor" Height="593" Width="1000">
+	<Grid>
+		<DockPanel>
+			<Menu DockPanel.Dock="Top">
+				<MenuItem Header="_File">
+					<MenuItem Header="_New" Click="New_Click"/>
+					<MenuItem Header="_Open" Click="Load_Click"/>
+					<MenuItem Header="_Save" Click="Save_Click"/>
+				</MenuItem>
+			</Menu>
+			<ToolBarTray Height="Auto" VerticalAlignment="Top">
+				<ToolBar>
+					<Button Content="Place Landmarks" />
+					<Button Content="Delete Landmarks" />
+				</ToolBar>
+				<ToolBar>
+					<Button Content="Draw Boundaries" />
+					<Button Content="Delete Boundaries" />
+				</ToolBar>
+			</ToolBarTray>
+		</DockPanel>
+
+		<Grid Margin="0,47,0,0">
+			<lib:MapDisplayControl Name="MapDisplay" Grid.Column="1" />
+		</Grid>
+	</Grid>
+</Window>

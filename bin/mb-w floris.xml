@@ -1,0 +1,182 @@
+<Map Name="Mount and Blade: Warband (Florid Mod)" ImageFile="MountAndBladeWarband-Floris.jpg">
+  <Landmark Name="Kulum" X="3134" Y="1085" />
+  <Landmark Name="Buillin" X="3768" Y="1093" />
+  <Landmark Name="Chalbeck Castle" X="3869" Y="1208" />
+  <Landmark Name="Aldelen" X="3515" Y="1520" />
+  <Landmark Name="Hrus Castle" X="4000" Y="1731" />
+  <Landmark Name="Rizi" X="4179" Y="1694" />
+  <Landmark Name="Tihr" X="4379" Y="1786" />
+  <Landmark Name="Haen" X="4406" Y="1878" />
+  <Landmark Name="Gisim" X="3795" Y="2150" />
+  <Landmark Name="Azgad" X="3404" Y="2460" />
+  <Landmark Name="Tevarin Castle" X="2900" Y="2215" />
+  <Landmark Name="Balanli" X="2797" Y="2251" />
+  <Landmark Name="Elberl" X="2468" Y="2696" />
+  <Landmark Name="Praven" X="3393" Y="2644" />
+  <Landmark Name="Veidar" X="3232" Y="2818" />
+  <Landmark Name="Nemeja" X="2899" Y="3005" />
+  <Landmark Name="Haringoth Castle" X="3051" Y="3102" />
+  <Landmark Name="Istiniar" X="2571" Y="3121" />
+  <Landmark Name="Glunmar" X="2319" Y="3305" />
+  <Landmark Name="Maras Castle" X="2759" Y="3400" />
+  <Landmark Name="Reveran" X="2689" Y="3622" />
+  <Landmark Name="Ilvia" X="2496" Y="3726" />
+  <Landmark Name="Yalen" X="2492" Y="3935" />
+  <Landmark Name="Culmarr Castle" X="3148" Y="3499" />
+  <Landmark Name="Dirigsene" X="3272" Y="3647" />
+  <Landmark Name="Etrosq Castle" X="3098" Y="3731" />
+  <Landmark Name="Dumar" X="3081" Y="3979" />
+  <Landmark Name="Epeshe" X="3054" Y="4145" />
+  <Landmark Name="Uxkhal" X="4169" Y="3442" />
+  <Landmark Name="Fedner" X="3425" Y="4108" />
+  <Landmark Name="Buvran" X="3292" Y="4593" />
+  <Landmark Name="Jelkala" X="3466" Y="4697" />
+  <Landmark Name="Ibdeles Castle" X="3449" Y="4894" />
+  <Landmark Name="Ibdeles" X="3453" Y="5032" />
+  <Landmark Name="Ruldi" X="3801" Y="4633" />
+  <Landmark Name="Chelez" X="4005" Y="4861" />
+  <Landmark Name="Chaeza" X="3784" Y="4213" />
+  <Landmark Name="Veluca" X="3917" Y="4096" />
+  <Landmark Name="Emer" X="4082" Y="4391" />
+  <Landmark Name="Iyindah" X="3535" Y="2923" />
+  <Landmark Name="Suno" X="3865" Y="2934" />
+  <Landmark Name="Ruluns" X="4056" Y="3067" />
+  <Landmark Name="Vyincourd Castle" X="3847" Y="3482" />
+  <Landmark Name="Yaragar" X="3971" Y="3438" />
+  <Landmark Name="Pagundur" X="3922" Y="3844" />
+  <Landmark Name="Ergellon Castle" X="4058" Y="3818" />
+  <Landmark Name="Serindiar" X="4251" Y="3984" />
+  <Landmark Name="Grunwalder Castle" X="4325" Y="4080" />
+  <Landmark Name="Sarimish" X="4404" Y="4351" />
+  <Landmark Name="Almerra Castle" X="4737" Y="4652" />
+  <Landmark Name="Saren" X="4744" Y="4406" />
+  <Landmark Name="Jamiche" X="4634" Y="5021" />
+  <Landmark Name="Jamiche Castle" X="4744" Y="4986" />
+  <Landmark Name="Weyyah Castle" X="5136" Y="5077" />
+  <Landmark Name="Hawaha" X="5057" Y="5195" />
+  <Landmark Name="Ayn Assuadi" X="5265" Y="5297" />
+  <Landmark Name="Shariz" X="5106" Y="5505" />
+  <Landmark Name="Mit Nun" X="5386" Y="5516" />
+  <Landmark Name="Caraf Castle" X="5417" Y="5606" />
+  <Landmark Name="Rushdigh" X="5602" Y="5496" />
+  <Landmark Name="Dhibbain" X="5632" Y="5655" />
+  <Landmark Name="Tilimsal" X="5808" Y="5751" />
+  <Landmark Name="Qalyut" X="5805" Y="5381" />
+  <Landmark Name="Teramma Castle" X="6189" Y="5454" />
+  <Landmark Name="Shibal Zumr" X="6340" Y="5384" />
+  <Landmark Name="Durquba" X="6551" Y="5516" />
+  <Landmark Name="Tamnuh" X="6763" Y="5435" />
+  <Landmark Name="Sekhtem" X="6478" Y="5128" />
+  <Landmark Name="Jameyyed Castle" X="6283" Y="5002" />
+  <Landmark Name="Mijayet" X="7172" Y="5593" />
+  <Landmark Name="Iqbayl" X="7670" Y="5881" />
+  <Landmark Name="Bariyye" X="7966" Y="5937" />
+  <Landmark Name="Fishara" X="7873" Y="5750" />
+  <Landmark Name="Aab" X="7451" Y="5507" />
+  <Landmark Name="Durrin Castle" X="7309" Y="5454" />
+  <Landmark Name="Ahmerrad" X="7392" Y="5310" />
+  <Landmark Name="Samarra Castle" X="7134" Y="5184" />
+  <Landmark Name="Habba" X="6959" Y="5173" />
+  <Landmark Name="Mawiti" X="7203" Y="4957" />
+  <Landmark Name="Unriya" X="7874" Y="5481" />
+  <Landmark Name="Bardaq Castle" X="7898" Y="5406" />
+  <Landmark Name="Uzgha" X="7867" Y="5198" />
+  <Landmark Name="Sharwa Castle" X="8216" Y="5165" />
+  <Landmark Name="Tazjunat" X="7990" Y="5011" />
+  <Landmark Name="Asugan Castle" X="8350" Y="4836" />
+  <Landmark Name="Dugan" X="8363" Y="4674" />
+  <Landmark Name="Dusturil" X="7651" Y="4524" />
+  <Landmark Name="Tulga" X="7654" Y="4250" />
+  <Landmark Name="Distar Castle" X="7785" Y="4051" />
+  <Landmark Name="Bulugur" X="8037" Y="3910" />
+  <Landmark Name="Dashbigha" X="7504" Y="3940" />
+  <Landmark Name="Ichamur" X="7481" Y="3638" />
+  <Landmark Name="Malayurg Castle" X="6993" Y="3758" />
+  <Landmark Name="Tash Kulun" X="6914" Y="3926" />
+  <Landmark Name="Zagush" X="6965" Y="4129" />
+  <Landmark Name="Kedelke" X="6771" Y="4361" />
+  <Landmark Name="Narra" X="6739" Y="4194" />
+  <Landmark Name="Mazigh" X="6397" Y="4832" />
+  <Landmark Name="Amashke" X="5662" Y="4823" />
+  <Landmark Name="Unuzdaq Castle" X="5571" Y="4745" />
+  <Landmark Name="Peshmi" X="5972" Y="4546" />
+  <Landmark Name="Halmar" X="6062" Y="4463" />
+  <Landmark Name="Uhhun" X="6399" Y="4167" />
+  <Landmark Name="Uhhun Castle" X="6266" Y="4117" />
+  <Landmark Name="Ehlerdah" X="5695" Y="4112" />
+  <Landmark Name="Reindi Castle" X="5496" Y="4185" />
+  <Landmark Name="Yalibe" X="5275" Y="3965" />
+  <Landmark Name="Tshibtin" X="4901" Y="3786" />
+  <Landmark Name="Nomar" X="4402" Y="3581" />
+  <Landmark Name="Senuzgda Castle" X="5059" Y="3613" />
+  <Landmark Name="Emirin" X="5218" Y="3504" />
+  <Landmark Name="Dhirim" X="5383" Y="3523" />
+  <Landmark Name="Ushkuru" X="5579" Y="3665" />
+  <Landmark Name="Amere" X="5876" Y="3664" />
+  <Landmark Name="Rindyar Castle" X="6340" Y="3669" />
+  <Landmark Name="Rduna" X="6494" Y="3615" />
+  <Landmark Name="Ada Kulun" X="8327" Y="3405" />
+  <Landmark Name="Tulbuk" X="7807" Y="3356" />
+  <Landmark Name="Tulbuk Castle" X="7929" Y="3214" />
+  <Landmark Name="Dirigh Aban" X="7397" Y="3366" />
+  <Landmark Name="Nelag Castle" X="8065" Y="2885" />
+  <Landmark Name="Hanun" X="8165" Y="2834" />
+  <Landmark Name="Burglen" X="4890" Y="3340" />
+  <Landmark Name="Kelredan Castle" X="4991" Y="3078" />
+  <Landmark Name="Chide" X="4831" Y="3087" />
+  <Landmark Name="Ibiran" X="4363" Y="3098" />
+  <Landmark Name="Ryibelet" X="4281" Y="2794" />
+  <Landmark Name="Ryibelet Castle" X="4156" Y="2689" />
+  <Landmark Name="Jelbegi Castle" X="4390" Y="2309" />
+  <Landmark Name="Knudarr Castle" X="5264" Y="2874" />
+  <Landmark Name="Mechin" X="5400" Y="2800" />
+  <Landmark Name="Jelbegi" X="4567" Y="2155" />
+  <Landmark Name="Ambean" X="4837" Y="2353" />
+  <Landmark Name="Tehlrog Castle" X="5221" Y="2224" />
+  <Landmark Name="Vayejeg" X="5269" Y="2367" />
+  <Landmark Name="Kwynn" X="4852" Y="1893" />
+  <Landmark Name="Curin Castle" X="4851" Y="1791" />
+  <Landmark Name="Sargoth" X="5032" Y="1886" />
+  <Landmark Name="Fenada" X="5236" Y="1995" />
+  <Landmark Name="Fearichen" X="5430" Y="1805" />
+  <Landmark Name="Ismirala Castle" X="5616" Y="2153" />
+  <Landmark Name="Ismirala" X="5776" Y="2143" />
+  <Landmark Name="Tosdhar" X="5324" Y="3180" />
+  <Landmark Name="Derchios Castle" X="5467" Y="3257" />
+  <Landmark Name="Tilbaut Castle" X="5915" Y="3222" />
+  <Landmark Name="Tadsamesh" X="5916" Y="3105" />
+  <Landmark Name="Tahlberl" X="4717" Y="2791" />
+  <Landmark Name="Wercheg" X="5420" Y="1389" />
+  <Landmark Name="Odasan" X="5141" Y="1054" />
+  <Landmark Name="Jayek" X="5748" Y="1587" />
+  <Landmark Name="Alburq Castle" X="5887" Y="1682" />
+  <Landmark Name="Jeirbe Castle" X="6065" Y="1854" />
+  <Landmark Name="Mazen" X="6272" Y="1842" />
+  <Landmark Name="Ruvar" X="6022" Y="1357" />
+  <Landmark Name="Tebandra" X="6437" Y="3192" />
+  <Landmark Name="Dramug Castle" X="6246" Y="3171" />
+  <Landmark Name="Ulburban" X="6617" Y="3080" />
+  <Landmark Name="Ayyike" X="6165" Y="2993" />
+  <Landmark Name="Reyvadin" X="6173" Y="2831" />
+  <Landmark Name="Radoghir Castle" X="5865" Y="2618" />
+  <Landmark Name="Sumbuja" X="6053" Y="2569" />
+  <Landmark Name="Rebache" X="6013" Y="2419" />
+  <Landmark Name="Rivacheg" X="6611" Y="1464" />
+  <Landmark Name="Vezin" X="6889" Y="1397" />
+  <Landmark Name="Fisdnar" X="7544" Y="1284" />
+  <Landmark Name="Sungetche Castle" X="7347" Y="2951" />
+  <Landmark Name="Bhulaban" X="7382" Y="2806" />
+  <Landmark Name="Shulus" X="7699" Y="2543" />
+  <Landmark Name="Yruma Castle" X="6647" Y="2584" />
+  <Landmark Name="Karindi" X="6532" Y="2552" />
+  <Landmark Name="Slezkh" X="6431" Y="2331" />
+  <Landmark Name="Curaw" X="6156" Y="2283" />
+  <Landmark Name="Slezkh Castle" X="6398" Y="2193" />
+  <Landmark Name="Bazeck" X="6485" Y="2008" />
+  <Landmark Name="Shapeshte" X="6750" Y="1989" />
+  <Landmark Name="Uslum" X="7562" Y="2206" />
+  <Landmark Name="Khudan" X="7090" Y="2456" />
+  <Landmark Name="Tismirr" X="7024" Y="2539" />
+  <Landmark Name="Bulugha Castle" X="6298" Y="1473" />
+  <Landmark Name="Udiniad" X="6382" Y="1470" />
+</Map>
